@@ -1,2 +1,5 @@
 .ipynb_checkpoints/*
 result/
+result_npy/
+*.txt
+*.npy
