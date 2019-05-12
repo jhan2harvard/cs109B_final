@@ -1,5 +1,7 @@
 .ipynb_checkpoints/*
 result/
 result_npy/
+preprocessed_output_combined_with_boundary/
 *.txt
 *.npy
+*.mat
